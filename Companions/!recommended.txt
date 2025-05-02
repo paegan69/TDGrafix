@@ -1,1 +1,13 @@
 List of recommended coords and stats
+
+Ground Companions: 
+X:8 Y:6 W:15 H:15
+
+Hovering Support:
+X:-6 Y:-15 W:15 H:15
+
+Fire: bonus to kill & 
+Water: bonus to kill & survival
+Air: bonus to loot & infamy
+Earth: bonus to survival & loot
+Lightning: : bonus to kill & xp
