@@ -1,0 +1,1 @@
+flameskull: X: -5 Y: -32 W: 25 H: 50
